@@ -1,0 +1,17 @@
+####
+#Guess Game
+####
+
+
+# 1. Generate a random number
+# 2. Inside a loop, guess a number
+# 3. The program will tell me "Higher", or "Lower"
+# 4. The game ends when the number is guessed correctly.
+
+# Please include the following code
+
+import sys
+
+# "command" is the name of the input
+if command in ['q','quit', 'exit']:
+    sys.exit(0)
